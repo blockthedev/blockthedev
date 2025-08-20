@@ -10,7 +10,7 @@ Hi! Im block, a programmer/software developer of 1.5 years. Ive mostly worked wi
 ## IDEs
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bfae7f3b-8e82-4c89-996b-fd523a18494b" />
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="left">
 	<a href="https://github.com/blockthedev?tab=followers">
