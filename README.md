@@ -1,5 +1,5 @@
 # Hello, and Welcome to my Github!
-Hi! Im block, a programmer/software developer of 1.5 years. Ive mostly worked with JavaScript and Luau, but i also have knowledge in HTML, and CSS for web development. I mostly specialize in forntend work, and a little backend. Recently i've been working more with JavaScript to develop discord api bots.
+Hi! Im block, a programmer/software developer of 1 years. Ive mostly worked with JavaScript and Luau, but i also have knowledge in HTML, and CSS for web development. I mostly specialize in forntend work, and a little backend. Recently i've been working more with JavaScript to develop discord api bots.
 
 ## Languages
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f0310e15-e849-4086-b2d1-5ac819bfcade" />
